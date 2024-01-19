@@ -2,7 +2,7 @@
 
 # Alumnos:
 
-## Francescoli Anticona
+## Francescolli Anticona
 
 ## Sergio Fierro
 
